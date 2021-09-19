@@ -60,7 +60,7 @@ public class LevelManager : MonoBehaviour
             GameObject newTowerUIObj = Instantiate
             (_towerUIPrefab.gameObject, _towerUIParent);
             TowerUI newTowerUI =
-           newTowerUIObj.GetComponent<TowerUI>();
+            newTowerUIObj.GetComponent<TowerUI>();
             newTowerUI.SetTowerPrefab(tower);
             newTowerUI.transform.name = tower.name;
         }
@@ -107,6 +107,12 @@ public class LevelManager : MonoBehaviour
                 else
                 {
                     enemy.gameObject.SetActive(false);
+                    SetCurrentLives(_currentLives - 1);
+
+                    if (_currentLives <= 0)
+                    {
+                        SetGameOver(false);
+                    }
                 }
             }
             else
@@ -118,8 +124,8 @@ public class LevelManager : MonoBehaviour
         // Jika menekan tombol R, fungsi restart akan terpanggil
         if (Input.GetKeyDown(KeyCode.R))
         {
-            SceneManager.LoadScene(SceneManager.GetActiveScene
-           ().name);
+            SceneManager.LoadScene(SceneManager.GetActiveScene ().name);
+            Time.timeScale = 1;
         }
         if (IsOver)
         {
@@ -203,16 +209,6 @@ public class LevelManager : MonoBehaviour
         }
     }
 
-    public void ReduceLives(int value)
-    {
-        SetCurrentLives(_currentLives - value);
-
-        if (_currentLives <= 0)
-        {
-            SetGameOver(false);
-        }
-    }
-
     public void SetCurrentLives(int currentLives)
     {
         // Mathf.Max fungsi nya adalah mengambil angka terbesar
@@ -229,9 +225,15 @@ public class LevelManager : MonoBehaviour
 
     public void SetGameOver(bool isWin)
     {
-    IsOver = true;
-    _statusInfo.text = isWin ? "You Win!" : "You Lose!";
-    _panel.gameObject.SetActive(true);
+        IsOver = true;
+        _statusInfo.text = isWin ? "You Win!" : "You Lose!";
+        _panel.gameObject.SetActive(true);
+
+        if (isWin == false)
+        {
+            Time.timeScale = 0;
+            _enemyCounter = 0;
+        }
     }
 
     // Untuk menampilkan garis penghubung dalam window Scene
