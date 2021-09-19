@@ -1,0 +1,302 @@
+fileFormatVersion: 2
+guid: cb88a214a889db84db83c5c0d65d7d1f
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: kisspng-sprite-gamemaker-studio-animation-2d-computer-gra-explosion-sprite-5b3dbe73eb9a97.739559261530773107965_0
+    21300002: kisspng-sprite-gamemaker-studio-animation-2d-computer-gra-explosion-sprite-5b3dbe73eb9a97.739559261530773107965_1
+    21300004: kisspng-sprite-gamemaker-studio-animation-2d-computer-gra-explosion-sprite-5b3dbe73eb9a97.739559261530773107965_2
+    21300006: kisspng-sprite-gamemaker-studio-animation-2d-computer-gra-explosion-sprite-5b3dbe73eb9a97.739559261530773107965_3
+    21300008: kisspng-sprite-gamemaker-studio-animation-2d-computer-gra-explosion-sprite-5b3dbe73eb9a97.739559261530773107965_4
+    21300010: kisspng-sprite-gamemaker-studio-animation-2d-computer-gra-explosion-sprite-5b3dbe73eb9a97.739559261530773107965_5
+    21300012: kisspng-sprite-gamemaker-studio-animation-2d-computer-gra-explosion-sprite-5b3dbe73eb9a97.739559261530773107965_6
+    21300014: kisspng-sprite-gamemaker-studio-animation-2d-computer-gra-explosion-sprite-5b3dbe73eb9a97.739559261530773107965_7
+    21300016: kisspng-sprite-gamemaker-studio-animation-2d-computer-gra-explosion-sprite-5b3dbe73eb9a97.739559261530773107965_8
+    21300018: kisspng-sprite-gamemaker-studio-animation-2d-computer-gra-explosion-sprite-5b3dbe73eb9a97.739559261530773107965_9
+    21300020: kisspng-sprite-gamemaker-studio-animation-2d-computer-gra-explosion-sprite-5b3dbe73eb9a97.739559261530773107965_10
+    21300022: kisspng-sprite-gamemaker-studio-animation-2d-computer-gra-explosion-sprite-5b3dbe73eb9a97.739559261530773107965_11
+    21300024: kisspng-sprite-gamemaker-studio-animation-2d-computer-gra-explosion-sprite-5b3dbe73eb9a97.739559261530773107965_12
+    21300026: kisspng-sprite-gamemaker-studio-animation-2d-computer-gra-explosion-sprite-5b3dbe73eb9a97.739559261530773107965_13
+    21300028: kisspng-sprite-gamemaker-studio-animation-2d-computer-gra-explosion-sprite-5b3dbe73eb9a97.739559261530773107965_14
+    21300030: kisspng-sprite-gamemaker-studio-animation-2d-computer-gra-explosion-sprite-5b3dbe73eb9a97.739559261530773107965_15
+    21300032: kisspng-sprite-gamemaker-studio-animation-2d-computer-gra-explosion-sprite-5b3dbe73eb9a97.739559261530773107965_16
+    21300034: kisspng-sprite-gamemaker-studio-animation-2d-computer-gra-explosion-sprite-5b3dbe73eb9a97.739559261530773107965_17
+    21300036: kisspng-sprite-gamemaker-studio-animation-2d-computer-gra-explosion-sprite-5b3dbe73eb9a97.739559261530773107965_18
+    21300038: kisspng-sprite-gamemaker-studio-animation-2d-computer-gra-explosion-sprite-5b3dbe73eb9a97.739559261530773107965_19
+    21300040: kisspng-sprite-gamemaker-studio-animation-2d-computer-gra-explosion-sprite-5b3dbe73eb9a97.739559261530773107965_20
+    21300042: kisspng-sprite-gamemaker-studio-animation-2d-computer-gra-explosion-sprite-5b3dbe73eb9a97.739559261530773107965_21
+    21300044: kisspng-sprite-gamemaker-studio-animation-2d-computer-gra-explosion-sprite-5b3dbe73eb9a97.739559261530773107965_22
+    21300046: kisspng-sprite-gamemaker-studio-animation-2d-computer-gra-explosion-sprite-5b3dbe73eb9a97.739559261530773107965_23
+    21300048: kisspng-sprite-gamemaker-studio-animation-2d-computer-gra-explosion-sprite-5b3dbe73eb9a97.739559261530773107965_24
+    21300050: kisspng-sprite-gamemaker-studio-animation-2d-computer-gra-explosion-sprite-5b3dbe73eb9a97.739559261530773107965_25
+    21300052: kisspng-sprite-gamemaker-studio-animation-2d-computer-gra-explosion-sprite-5b3dbe73eb9a97.739559261530773107965_26
+    21300054: kisspng-sprite-gamemaker-studio-animation-2d-computer-gra-explosion-sprite-5b3dbe73eb9a97.739559261530773107965_27
+    21300056: kisspng-sprite-gamemaker-studio-animation-2d-computer-gra-explosion-sprite-5b3dbe73eb9a97.739559261530773107965_28
+    21300058: kisspng-sprite-gamemaker-studio-animation-2d-computer-gra-explosion-sprite-5b3dbe73eb9a97.739559261530773107965_29
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kisspng-sprite-gamemaker-studio-animation-2d-computer-gra-explosion-sprite-5b3dbe73eb9a97.739559261530773107965_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb4905f3607d284fa8c5546b95eac30
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-gamemaker-studio-animation-2d-computer-gra-explosion-sprite-5b3dbe73eb9a97.739559261530773107965_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3785c0d30abd938489be5e58c4525bc9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-gamemaker-studio-animation-2d-computer-gra-explosion-sprite-5b3dbe73eb9a97.739559261530773107965_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8da57444843fd43a45cfa2bf351b13
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-gamemaker-studio-animation-2d-computer-gra-explosion-sprite-5b3dbe73eb9a97.739559261530773107965_3
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d90632fd7db5c46ac104185a0c9484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-gamemaker-studio-animation-2d-computer-gra-explosion-sprite-5b3dbe73eb9a97.739559261530773107965_4
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d084a913a8218844b83c8dc929e87b00
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-gamemaker-studio-animation-2d-computer-gra-explosion-sprite-5b3dbe73eb9a97.739559261530773107965_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c80dfbacfafd14c93e697467f2899e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-gamemaker-studio-animation-2d-computer-gra-explosion-sprite-5b3dbe73eb9a97.739559261530773107965_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7d47bcb2af28d4d80405c0feb9fe6e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e91cfc24f9057ec499e0d785a7a2d537
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
